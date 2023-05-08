@@ -68,9 +68,12 @@ div {
 
 a {
     text-decoration: none;
+    padding: 2px;
 }
 
 .content{
     margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
