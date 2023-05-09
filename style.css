@@ -30,13 +30,13 @@ p {
     color: white;
     font-size: 40px;
     font-weight: lighter;
-    margin-top: -60px;
+    margin-top: -20px;
 }
 
 @media only screen and (max-width: 767px) {
     p {
         font-size: 28px;
-        margin-top: -18px;
+        margin-top: -5px;
     }
 }
 
@@ -68,12 +68,20 @@ div {
 
 a {
     text-decoration: none;
-    padding: 2px;
 }
 
-.content{
+.content {
     margin-bottom: 100px;
     margin-left: 20px;
     margin-right: 20px;
 }
 
+.item {
+    width: 50px;
+    height: 50px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
