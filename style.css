@@ -30,7 +30,7 @@ p {
     color: white;
     font-size: 40px;
     font-weight: lighter;
-    margin-top: -20px;
+    margin: 20px;
 }
 
 @media only screen and (max-width: 767px) {
